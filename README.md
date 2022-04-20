@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently learning to code with School of Code Bootcamp UK 👨‍🎓
+- Currently learning the basics of Javascript 👨‍💻
+- I'm looking for help with almost everything 🤷‍♂️
+
 <!--
 **simonpartridge86/simonpartridge86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
