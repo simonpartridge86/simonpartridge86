@@ -17,7 +17,7 @@
 - Further intro to comp. thinking from Chris M, then applied this process to breaking down webpages with partner
 - Intro to dev tools in Chrome from Chris M, how they can be used to analyze and change the code in existing sites
 - Worked on CSS challenge (building a Koala face) 🐨 - tricky at first but started to get the hand of absolute and relative positioning<br>
-After hours:
+##### After hours:
 - Read a little more about CSS position property, and completed Flexbox Froggy CSS game (see https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
 - Contacted my new mentor, Piper
 
@@ -27,7 +27,7 @@ After hours:
 - Given an overview of the SoC curriculum and process
 - Practised CSS positioning with partner using some online games
 - Wrote letters to future self, both the self that succeeds and the self that wastes the opportunity<br>
-After hours: 
+##### After hours: 
 - Completed CSS Diner and Flexbox Defense games (see https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
 
 <!--
