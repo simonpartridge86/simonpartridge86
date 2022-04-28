@@ -5,9 +5,17 @@
 - I'm looking for help with almost everything 🤷‍♂️
 
 
-## School of Code Bootcamp Daily Log:
+## School of Code Bootcamp (April-Aug 2022) Daily Log:
 
 ### Week #1 😬
+
+#### Day #3: (Partners: Abdul-Aziz & Yossef)
+- Whole day dedicated to JavaScript intro (covering variables, operators, functions, loops and logic flow)
+- Completed paired exercises to complete certain operations, including a password checker challenge
+- Partners were struggling a little, but I again gained a lot of clarity by explaining and guiding them through it
+- Made first contact with Piper, my mentor for the course. Had a great chat and thankfully our prebootcamp backgrounds share a lot of similarities.
+##### After hours:
+- Continued with password checker challenge - struggled for a bit but managed to get function working by carefully reading instructions
 
 #### Day #2: (Partner: Abdul-Aziz)
 - Started with Daily Gratitude exercise and Quiz
