@@ -9,6 +9,12 @@
 
 ### Week #1 😬
 
+#### Day #4 (Partners: Abdul-Aziz & Yossef)
+- Started day with a great Mindset Development talk from Joseph Trodden - very pleased to see SoC put their money where their mouth is regarding mental approach
+- Talked a lot about the learning cycle, reactions to being put on the spot, and how to respond to/give feedback
+- Afternoon was spent continuing our JS intro - objects and arrays this time
+- Great afternoon workshop with partners, made good progress in working with arrays
+
 #### Day #3: (Partners: Abdul-Aziz & Yossef)
 - Whole day dedicated to JavaScript intro (covering variables, operators, functions, loops and logic flow)
 - Completed paired exercises to complete certain operations, including a password checker challenge
