@@ -7,25 +7,27 @@
 
 ## School of Code Bootcamp (April-Aug 2022) Daily Log:
 
-### Week 2
+### Week 2 (Partner: Ismail Ali) - "Fundamentals of Programming with Javascript"
 
 #### Day #6
-- insert here
-- insert here
+    - Call with former bootcampers now working at Wise, interesting to hear their experiences and advice
+    - Then introduced to interacting with the DOM using JavaScript
+    - Did some challenging tasks, involving manipulating the DOM to change and add info to HTML
+    - Worked on creating and interacting with events using Event Listener function
 
-### Week #1 😬
+### Week #1 (Partners: Abdul-Aziz Farah & Yossef Benattou) - "Intro to the School of Code Way"
 
-#### Day #5 (Partners: Abdul-Aziz & Yossef)
+#### Day #5
     - Spent all day working on first Hackathon - Rock, Paper, Scissors - a great challenge
     - First meeting with Rikiah - my progress enablement coach
 
-#### Day #4 (Partners: Abdul-Aziz & Yossef)
+#### Day #4
     - Started day with a great Mindset Development talk from Joseph Trodden - very pleased to see SoC put their money where their mouth is regarding mental approach
     - Talked a lot about the learning cycle, reactions to being put on the spot, and how to respond to/give feedback
     - Afternoon was spent continuing our JS intro - objects and arrays this time
     - Great afternoon workshop with partners, made good progress in working with arrays
 
-#### Day #3: (Partners: Abdul-Aziz & Yossef)
+#### Day #3
     - Whole day dedicated to JavaScript intro (covering variables, operators, functions, loops and logic flow)
     - Completed paired exercises to complete certain operations, including a password checker challenge
     - Partners were struggling a little, but I again gained a lot of clarity by explaining and guiding them through it
@@ -33,7 +35,7 @@
 ##### After hours:
     - Continued with password checker challenge - struggled for a bit but managed to get function working by carefully reading instructions
 
-#### Day #2: (Partner: Abdul-Aziz)
+#### Day #2
     - Started with Daily Gratitude exercise and Quiz
     - Reminder of how to use Git with VSCode from Liz K
     - Practiced using Git with partner by writing a bad play scene line by line, learned alot by helping A-A who was struggling with the concepts
@@ -45,7 +47,7 @@
     - Read a little more about CSS position property, and completed Flexbox Froggy CSS game (see https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
     - Contacted my new mentor, Piper
 
-#### Day #1: (Partner: Yossef)
+#### Day #1
     - Started the day with icebreaker exercises with this week's programming partner, followed by writing a poem as a team
     - Intro to computational thinking - how we should be approaching projects and problems
     - Given an overview of the SoC curriculum and process
