@@ -9,6 +9,16 @@
 
 ### Week 2 (Partner: Ismail Ali) - "Fundamentals of Programming with Javascript"
 
+### Day #8
+    - Morning mindset development session with Joseph Trodden - discussed Myers-Briggs personality types and relating to others
+    - More workshops on manipulating the DOM and performing fetch requests
+    - Successfully refactored the rock-paper-scissors code to make a functional game with buttons and input fields
+
+### Day #7
+    - Had some extra time to finish yesterday's rushed work
+    - Intro to async functions, and interacting with APIs by performing fetch requests
+    - Successfully completed Fetch workshop
+
 #### Day #6
     - Call with former bootcampers now working at Wise, interesting to hear their experiences and advice
     - Then introduced to interacting with the DOM using JavaScript
