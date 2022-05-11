@@ -7,7 +7,31 @@
 
 ## School of Code Bootcamp (April-Aug 2022) Daily Log:
 
+### Week 3 (Partner: Nafiso Aden) - "Creating Applications with the User in Mind
+
+### Day #12
+    - Morning talk from Luke Edwards (Immediate Media) - interesting insights about industry practices and job hunting for junior devs
+    - UI Design exercise - looking at color palette generation, first attempts at low-fidelity wireframing in Miro and high-fidelity in Figma
+    - Intro to CSS organisation - looking at general rules and best practices
+
+### Day #11
+    - Morning talk from Alex Fairholm and Javaid Karim (Nester) - interesting insights on UX work/challenges and tips for interviews
+    - UX exercise - designed our own bootcamp, going through different stages of design thinking
+    - Introduced to CSS variables
+
+### Day #10
+    - Morning talk from Paavan Buddhdev about the magic of UX
+    - Followed by further intro to Agile methodology and UX/UI concepts
+    - Fun challenge attempting to recreate Google page blind in HTML - no previews allowed - failed miserably 😂
+
+
 ### Week 2 (Partner: Ismail Ali) - "Fundamentals of Programming with Javascript"
+
+### Day #9 - Week 2 Hackathon
+    - Given APIs and carte blanche to create whatever we like using them
+    - We selected a Pokemon API and set about building a pokemon guessing game
+    - Really pleased with our implementation, but sadly ran out of time to make it look good with CSS
+    - Had second talk with Piper - just chatted about hackathon and how timeboxing will be a useful technique to use for projects
 
 ### Day #8
     - Morning mindset development session with Joseph Trodden - discussed Myers-Briggs personality types and relating to others
