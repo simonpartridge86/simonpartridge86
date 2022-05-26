@@ -4,6 +4,7 @@
 - Currently learning the basics of Javascript 👨‍💻
 - I'm looking for help with almost everything 🤷‍♂️
 
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 30<br>Another day of getting into using postgreSQL to interact with a <a href="https://twitter.com/heroku?ref_src=twsrc%5Etfw">@heroku</a> database with <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>. It&#39;s all starting to come together a little more in my mind (I think). Tmrw&#39;s hackathon will no doubt test the veracity of that last sentence 😅</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1529930840318394373?ref_src=twsrc%5Etfw">May 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## School of Code Bootcamp (April-Aug 2022) Daily Log:
 
