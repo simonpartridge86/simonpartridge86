@@ -6,14 +6,14 @@
 
 ---
 ## **Follow me on Twitter, Github, and LinkedIn**
-<a href="https://twitter.com/simonisworking" target=”_blank”><img src="images/twitter-logo.png" height="50" width="50" style="margin-left:20px"></a>
-<a href="https://github.com/simonpartridge86" target=”_blank”><img src="images/github-logo.png" height="50" width="50" style="margin-left:20px"></a>
-<a href="https://github.com/simonpartridge86" target=”_blank”><img src="images/linkedin-logo.png" height="50" width="50" style="margin-left:20px"></a>
+<a href="https://twitter.com/simonisworking" target=”_blank”><img src="images/twitter-logo.png" height="50" width="50" style="margin-left:20px" alt="Twitter"></a>
+<a href="https://github.com/simonpartridge86" target=”_blank”><img src="images/github-logo.png" height="50" width="50" style="margin-left:20px" alt="GitHub"></a>
+<a href="https://github.com/simonpartridge86" target=”_blank”><img src="images/linkedin-logo.png" height="50" width="50" style="margin-left:20px" alt="LinkedIn"></a>
 
 ---
 ## **Technologies Learned**
 
-<img src="files/soc-technologies.png" alt="Technologies learned at School of Code"/>
+<img src="images/soc-technologies.png" alt="Technologies learned at School of Code"/>
 
 ---
 
