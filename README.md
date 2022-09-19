@@ -8,7 +8,7 @@ In August 2022, I completed a full-stack JavaScript development bootcamp run by 
 
 I'm now seeking job opportunities as a full-stack developer 👨‍💻
 
-If you'd like to hire me or find out more, click these links to view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFMS1Bo4Sg/WAeaTBP_d9MJe4ctdN1Kiw/view?utm_content=DAFMS1Bo4Sg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1).
+If you'd like to hire me or find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFMS1Bo4Sg/WAeaTBP_d9MJe4ctdN1Kiw/view?utm_content=DAFMS1Bo4Sg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1).
 
 You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) and [Twitter](https://twitter.com/simonisworking).
 
@@ -46,12 +46,10 @@ You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpart
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![Auth0 Badge](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)
-
+![Auth0 Badge](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)  
 ![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=for-the-badge)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
-
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Miro Badge](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff&style=for-the-badge)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
@@ -65,8 +63,6 @@ You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpart
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=cobalt&bg_color=1E1E1E)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars Badge](https://www.codewars.com/users/simonpartridge86/badges/large)
-
-![Profile views](https://gpvc.arturio.dev/simonpartridge86)
 
 ---
 
