@@ -2,15 +2,13 @@
 
 Hi, I'm Simon 👋
 
-- Previously, I was a Doctor of Chemistry 👨‍🔬 and former copy editor ✍️
+- I’m a former Doctor of Chemistry 👨‍🔬, copy editor ✍️, and world traveller.
 
-- I also travelled the world, working remotely, for the last 10 years
+- Now I'm starting a new adventure in the programming world 👨‍💻
 
-- I’ve now started a new adventure in the programming world 👨‍💻
+- In August 2022, I completed a full-stack JavaScript development bootcamp at the [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
 
-- In August 2022, I completed a full-stack JavaScript development bootcamp run by the brilliant [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
-
-- I'm now seeking job opportunities as a software developer 👨‍💻
+- I'm curently seeking job opportunities as a software developer 👨‍💻
 
 - To find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRAB7MFu0/zTNJ43sZpA0nYMDSN9ZvBg/view?utm_content=DAFRAB7MFu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
