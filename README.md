@@ -1,15 +1,20 @@
 ![Banner](images/banner.png)
 
-Hi, I’m Simon, a Doctor of Chemistry 👨‍🔬 and former copy editor ✍️
-After travelling the world and working remotely for the last 10 years, I’ve started a new adventure in the programming world 👨‍💻
+Hi, I'm Simon 👋
 
-In August 2022, I completed a full-stack JavaScript development bootcamp run by the brilliant [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
+- Previously, I was a Doctor of Chemistry 👨‍🔬 and former copy editor ✍️
 
-I'm now seeking job opportunities as a software developer 👨‍💻
+- I also travelled the world, working remotely, for the last 10 years
 
-If you'd like to hire me or find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRAB7MFu0/zTNJ43sZpA0nYMDSN9ZvBg/view?utm_content=DAFRAB7MFu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- I’ve now started a new adventure in the programming world 👨‍💻
 
-You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) and [Twitter](https://twitter.com/simonisworking).
+- In August 2022, I completed a full-stack JavaScript development bootcamp run by the brilliant [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
+
+- I'm now seeking job opportunities as a software developer 👨‍💻
+
+- To find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRAB7MFu0/zTNJ43sZpA0nYMDSN9ZvBg/view?utm_content=DAFRAB7MFu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+- Or contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) or [Twitter](https://twitter.com/simonisworking).
 
 ---
 
