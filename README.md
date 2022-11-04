@@ -1,20 +1,15 @@
 ![Banner](images/banner.png)
 
-# Hi, I'm Simon - thanks for stopping by 🤗
-
-I’m a Doctor of Chemistry and former copy editor. After travelling the world and working remotely for the last 10 years, I’ve started a new adventure in the programming world.
+Hi, I’m Simon, a Doctor of Chemistry 👨‍🔬 and former copy editor ✍️
+After travelling the world and working remotely for the last 10 years, I’ve started a new adventure in the programming world 👨‍💻
 
 In August 2022, I completed a full-stack JavaScript development bootcamp run by the brilliant [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
 
-I'm now seeking job opportunities as a full-stack developer 👨‍💻
+I'm now seeking job opportunities as a software developer 👨‍💻
 
-If you'd like to hire me or find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFMS1Bo4Sg/WAeaTBP_d9MJe4ctdN1Kiw/view?utm_content=DAFMS1Bo4Sg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1).
+If you'd like to hire me or find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRAB7MFu0/zTNJ43sZpA0nYMDSN9ZvBg/view?utm_content=DAFRAB7MFu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) and [Twitter](https://twitter.com/simonisworking).
-
-<!-- Add paragraph about why I was attracted to coding. See interview answers for inspiration-->
-
-<!-- Also add links to #100daysofcode repo and SoC diary repo -->
 
 ---
 
@@ -56,6 +51,7 @@ You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpart
 
 ---
 
+<!--
 ## My Stats
 
 [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonpartridge86&count_private=true&show_icons=true&theme=cobalt&bg_color=1E1E1E)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,21 +60,6 @@ You can also contact me through [LinkedIn](https://www.linkedin.com/in/simonpart
 
 ![Codewars Badge](https://www.codewars.com/users/simonpartridge86/badges/large)
 
----
+--- -->
 
 [Return to Top](#hi-im-simon---thanks-for-stopping-by-🤗)
-
-<!--
-**simonpartridge86/simonpartridge86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
