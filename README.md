@@ -10,7 +10,7 @@ Hi, I'm Simon 👋
 
 - I'm curently seeking job opportunities as a software developer 👨‍💻
 
-- To find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRAB7MFu0/zTNJ43sZpA0nYMDSN9ZvBg/view?utm_content=DAFRAB7MFu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- To find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRpUxHbTw/X2oCWiiwK4LHmDvMTRADKw/view?utm_content=DAFRpUxHbTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 - Or contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) or [Twitter](https://twitter.com/simonisworking).
 
