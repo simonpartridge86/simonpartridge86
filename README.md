@@ -4,13 +4,11 @@ Hi, I'm Simon 👋
 
 - I’m a former Doctor of Chemistry 👨‍🔬, copy editor ✍️, and world traveller.
 
-- Now I'm starting a new adventure in the programming world 👨‍💻
-
 - In August 2022, I completed a full-stack JavaScript development bootcamp at the [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
 
-- I'm curently seeking job opportunities as a software developer 👨‍💻
+- I'm now working in my first role as a junior software engineer 👨‍💻
 
-- To find out more, please view my [Portfolio](https://www.simonpartridge.me/) and [CV](https://www.canva.com/design/DAFRpUxHbTw/X2oCWiiwK4LHmDvMTRADKw/view?utm_content=DAFRpUxHbTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- To find out more, please view my [Portfolio](https://www.simonpartridge.me/)
 
 - Or contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) or [Twitter](https://twitter.com/simonisworking).
 
