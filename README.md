@@ -8,9 +8,7 @@ Hi, I'm Simon 👋
 
 - I'm now working in my first role as a junior software engineer 👨‍💻
 
-- To find out more, please view my <a href="https://www.simonpartridge.me/" target="_blank">Portfolio</a>
-
-[Portfolio](https://www.simonpartridge.me/)
+- To find out more, please view my [Portfolio](https://www.simonpartridge.me/)
 
 - Or contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) or [Twitter](https://twitter.com/simonisworking).
 
