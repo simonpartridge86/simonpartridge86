@@ -6,11 +6,11 @@ Hi, I'm Simon 👋
 
 - In August 2022, I completed a full-stack JavaScript development bootcamp at the [School of Code](https://www.schoolofcode.co.uk/) 👨‍🎓
 
-- I'm now working in my first role as a junior software engineer 👨‍💻
+- I'm now working in my first role as a ~~junior~~ software engineer (promoted from junior in April 2024) 👨‍💻
 
 - To find out more, please view my [Portfolio](https://www.simonpartridge.me/)
 
-- Or contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/) or [Twitter](https://twitter.com/simonisworking).
+- Or contact me through [LinkedIn](https://www.linkedin.com/in/simonpartridge86/)
 
 ---
 
